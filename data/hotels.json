@@ -1,0 +1,103 @@
+[
+    {
+      "id": 123456,
+      "name": "Luxury Suite Hotel",
+      "bedrooms": 2,
+      "rent": 250,
+      "rating": 4.8,
+      "view": "Ocean View",
+      "facilities": ["Spa", "Swimming Pool", "Gym", "Restaurant"],
+      "destination_id": 1
+    },
+    {
+      "id": 234567,
+      "name": "Boutique Hotel",
+      "bedrooms": 1,
+      "rent": 150,
+      "rating": 4.5,
+      "view": "City View",
+      "facilities": ["Bar", "24-Hour Reception", "Room Service"],
+      "destination_id": 3
+    },
+    {
+      "id": 345678,
+      "name": "Resort & Spa",
+      "bedrooms": 3,
+      "rent": 400,
+      "rating": 4.9,
+      "view": "Mountain View",
+      "facilities": ["Spa", "Swimming Pool", "Gym", "Restaurant", "Tennis Court"],
+      "destination_id": 3
+    },
+    {
+      "id": 456789,
+      "name": "Beachfront Villa",
+      "bedrooms": 4,
+      "rent": 600,
+      "rating": 4.7,
+      "view": "Beach View",
+      "facilities": ["Private Beach", "Swimming Pool", "Gym", "Bar", "Room Service"],
+      "destination_id": 1
+    },
+    {
+      "id": 567890,
+      "name": "Budget Hotel",
+      "bedrooms": 1,
+      "rent": 80,
+      "rating": 3.5,
+      "view": "City View",
+      "facilities": ["Free WiFi", "24-Hour Reception"],
+      "destination_id": 2
+    },
+    {
+      "id": 678901,
+      "name": "Apartment Suite",
+      "bedrooms": 2,
+      "rent": 200,
+      "rating": 4.2,
+      "view": "River View",
+      "facilities": ["Kitchenette", "Laundry", "24-Hour Reception"],
+      "destination_id": 1
+    },
+    {
+      "id": 789012,
+      "name": "Charming Inn",
+      "bedrooms": 1,
+      "rent": 120,
+      "rating": 4.4,
+      "view": "Garden View",
+      "facilities": ["Free Breakfast", "Free WiFi", "Room Service"],
+      "destination_id": 3
+    },
+    {
+      "id": 890123,
+      "name": "Mountain Lodge",
+      "bedrooms": 2,
+      "rent": 180,
+      "rating": 4.6,
+      "view": "Mountain View",
+      "facilities": ["Restaurant", "Bar", "Fireplace", "Hiking Trails"],
+      "destination_id": 2
+    },
+    {
+      "id": 901234,
+      "name": "City Center Hotel",
+      "bedrooms": 1,
+      "rent": 130,
+      "rating": 4.3,
+      "view": "City View",
+      "facilities": ["Restaurant", "Bar", "Fitness Center", "Meeting Rooms"],
+      "destination_id": 3
+    },
+    {
+      "id": 112233,
+      "name": "Historic Mansion Hotel",
+      "bedrooms": 5,
+      "rent": 800,
+      "rating": 4.9,
+      "view": "Garden View",
+      "facilities": ["Spa", "Swimming Pool", "Bar"],
+      "destination_id": 2
+    }
+  ]
+  
